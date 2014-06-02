@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">dpad</string>
+    <string name="menu_save">save</string>
+    <string name="title_activity_main">DpadActivity</string>
+
+</resources>
